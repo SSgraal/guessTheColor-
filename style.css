@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+#buttonContainer{
+    margin:auto;
+    width:50%;
+    padding: 10px;
+    text-align: center;
+}
+
+.colorButton{
+    background-color: red;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    border:none;
+}
+#reset{
+    margin:auto;
+    width:50%;
+    padding: 10px;
+    text-align: center;
+}
